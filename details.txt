@@ -1,0 +1,5 @@
+credentials
+aws ; tej_b4  Rajt$123
+Terminal : tej Rajt$123
+User doc : https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AmazonEBS.html
+Password for git video : p100200@
